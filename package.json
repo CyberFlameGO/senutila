@@ -48,7 +48,7 @@
 	},
 	"devDependencies": {
 		"@types/centra": "^2.2.0",
-		"@types/node": "^16.4.12",
+		"@types/node": "^20.6.3",
 		"@types/ws": "^8.2.2",
 		"rimraf": "^3.0.2",
 		"typedoc": "^0.22.10",
